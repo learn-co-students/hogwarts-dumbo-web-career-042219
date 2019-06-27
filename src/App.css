@@ -12,6 +12,15 @@
   transform: scale(1.5);
 }
 
+.hogShow {
+  float: right;
+  position: fixed;
+  margin-left: 60%;
+  height: 70%;
+  width: 35%;
+  background-color: skyblue;
+}
+
 .navWrapper {
   margin-bottom: 2%;
 }
@@ -64,7 +73,7 @@ ul {
 
 .subtleText {
   color: #D1D1D1;
-  font-size: .75em; 
+  font-size: .75em;
 }
 
 
